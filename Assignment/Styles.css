@@ -1,0 +1,103 @@
+
+/* 4BE3AF light-green T*/
+/* 399677 darck-green T*/
+/* 835BF0 sky-blue*/
+/* rgb(161, 33, 161) light-purple */
+
+body{
+    margin:0, auto;
+    margin-top: 1px;
+}
+#banner{
+    height: 133px;
+}
+
+header{
+    /* background:rgb(161, 33, 161); */
+    border-radius: 4px;
+    position: fixed;
+    width: 100%;
+}
+
+
+header h1{
+    margin: 0;
+    background:rgb(161, 33, 161);
+    border-radius: 4px;
+    padding: 8px;
+    color: linen;
+}
+
+
+header nav{
+    border-radius: 4px;
+    background-color:#adadad;
+    display: flex;
+    justify-content:flex-end;
+    gap: 12px;
+    /* color: linen; */
+    font-size: 1.4rem;
+}
+#home{
+    color:rgb(161, 33, 161) ;
+}
+#one{
+    color: navy;
+}
+#two{
+    color: rgb(255, 255, 29);
+}
+#three{
+    color: rgb(77, 255, 23);
+}
+
+
+
+#main-content{
+    display: flex;
+    justify-content: space-around;
+    /* flex-basis: 100%; */
+}
+#main-content h3{
+    text-align: center;
+    height: 250px;
+    width: 32%;
+}
+#chair{
+    background-image: url(./pictures/blue_chair.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+#cabbinet{
+    background-image: url(./pictures/yellow_cabinet.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+#table{
+    background-image: url(./pictures/green_table.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+main p{
+    background-color: #ededed;
+    padding: 8px;
+}
+
+
+
+footer{
+    background-color: rgb(161, 33, 161);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+footer h5{
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+.something{
+    height: 600px;
+}
