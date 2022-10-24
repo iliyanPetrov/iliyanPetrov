@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iliyanPetrov, Bulgaria, Russe
-- 👀 I’m interested in React, ui design, Python, Django (and more)/ no dev experience yet/
+- 👀 I’m interested in React, CSS, UI design, (Python)/ no dev experience yet/
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any frontend project using React and css...
+- 💞️ I’m looking to collaborate on a frontend project using React and css...
 - 📫 How to reach me:  iliyan.petrov1986@gmail.com
 - 📞 089 848 1684
 
