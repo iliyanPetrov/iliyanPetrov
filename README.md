@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iliyanPetrov, Bulgaria, Russe
-- 👀 I’m interested in React, Redux/toolkit, CSS, UI design,/ no dev experience yet/,(Python)
-- 🌱 I’m currently learning React-redux
-- 💞️ I’m looking to collaborate on a frontend project using React and css...
+- 👀 I’m interested in React, Redux/toolkit, CSS, UI design,(Python, Vue)
+- 🌱 I’m currently studying in SoftUni - FrontEnd w/ JavaScript... (January - 2023);
+- 💞️ I’m looking to collaborate on a frontend project using React and scss...
 - 📫 How to reach me:  iliyan.petrov1986@gmail.com
 - 📞 089 848 1684
 
